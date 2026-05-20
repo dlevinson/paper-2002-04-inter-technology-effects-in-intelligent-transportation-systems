@@ -1,0 +1,194 @@
+*  Network state specification, file name 'C:\Seshu\TOPS\KANCHI\test1\02h00m00.stt'
+*  Time offset, nbsections, nbvehtypes
+7200  21  1
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+1  1  2
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+6.937701  92.000000  0.000000  0.500500
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+23.192280  28.000000  0.000000  0.499500
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+2  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+8000.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+11.709900  280.000000  1.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+3  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+17.646265  5.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+4  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+6.863178  12.000000  1.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+5  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+6.315163  12.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+6  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+3.826936  12.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+7  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+8.089479  11.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+8  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+6.911005  12.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+9  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+600.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+2.802370  222.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+10  2  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+7.748034  29.000000  3.333333  1.000000
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+7.748034  58.000000  7.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+11  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+600.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+3.808453  196.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+12  2  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+9.591391  50.000000  1.333333  1.000000
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+9.591391  25.000000  1.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+13  2  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+16.479923  20.666666  0.000000  1.000000
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+16.479923  11.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+15  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+600.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+38.128525  35.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+16  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+600.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+27.901487  39.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+17  2  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+13.288748  12.666667  0.333333  1.000000
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+13.288748  26.000000  1.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+18  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+22.399160  9.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+19  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+8.207405  11.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+20  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+15.213226  12.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+21  1  1
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Turning: speed, nbveh, nbveh_stopped, percentage
+17.850090  15.000000  0.000000  1.000000
+*  Section  -------------------------------
+*  idsection, nbentrance_points, nbturnings
+22  2  0
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000
+*  Entrance point  ------------
+*  VehMod: entrance flow
+0.000000

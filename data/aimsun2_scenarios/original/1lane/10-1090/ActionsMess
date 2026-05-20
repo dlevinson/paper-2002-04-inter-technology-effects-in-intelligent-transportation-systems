@@ -1,0 +1,22 @@
+#MISSATGE VMS1 VMS#1 1
+     * 8
+#MISSATGE VMS1 VMS#2 1
+     * 9
+#MISSATGE VMS1 VMS#0 1
+     * 7
+#ACCIO -1
+#ACCIO 7
+   #ARC 1
+      #PTE 2
+         #CNXPTE 4   0.000000 
+         #CNXPTE 3   0.000000 
+#ACCIO 8
+   #ARC 1
+      #PTE 2
+         #CNXPTE 4   0.400000 
+         #CNXPTE 3   -0.400000 
+#ACCIO 9
+   #ARC 1
+      #PTE 2
+         #CNXPTE 4   -0.280000 
+         #CNXPTE 3   0.670000 

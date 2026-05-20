@@ -1,0 +1,13 @@
+path_or_glob,decision,reason
+paper/IntertechnologyEffects.pdf,include_as_reference,Final/published PDF copied for audit convenience; paper PDF is not relicensed by this package.
+data/aimsun2_scenarios/original/1lane,include,One-lane incident AIMSUN2 scenario/state/output corpus matching the paper simulation design.
+data/aimsun2_scenarios/original/2lane,include,Two-lane incident AIMSUN2 scenario/state/output corpus matching the paper simulation design.
+data/result_workbooks/original/*.xls,include,Legacy Excel workbooks containing MOE/result calculations and tables.
+data/result_workbooks/modernized/*.xlsx,include,LibreOffice conversions of legacy Excel result workbooks for easier modern inspection.
+data/result_workbooks/original/Standard.est; data/result_workbooks/original/standard.txt,include,AIMSUN2 text/statistics outputs retained as source results/context.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~PATH/PATH-TOPS/TOPS/license.dat,exclude,AIMSUN software license file is not part of the archival data/code boundary.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~PATH/PATH-TOPS/TOPS/getram.exe,exclude,Executable utility omitted; no source/provenance review and not required to inspect staged scenario/output files.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~PATH/PATH-TOPS/TOPS/*.doc; *.ppt; paper/*.doc; Results/*.doc,exclude,"Drafts, workplans, conference/paper prose, and presentation-style files are not part of the data/code package."
+/Users/dlev2617/Documents/Data/~Nexus_Data/~PATH/PATH-TOPS/TOPS/PRR-99-12.pdf,exclude,Reference paper/report not part of this paper data/code package.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~PATH/PATH-TOPS/TOPS/reference; references; trb; cts-conf,exclude,Reference/admin/prose folders omitted from this data/code package.
+/Users/dlev2617/Documents/Students/SeshKanchi/TOPS,exclude_duplicate_source,Student TOPS folder is a near-duplicate of the selected source tree and is not separately staged.

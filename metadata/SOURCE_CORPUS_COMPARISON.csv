@@ -1,0 +1,5 @@
+comparison,relative_path,source_size,student_size,note
+summary,,2344,2345,Data PATH-TOPS/TOPS used as canonical source; Students/SeshKanchi/TOPS is near-duplicate.
+student_only,CORE_RL_MAGICK_.DLL,,655360,Not staged; extra support DLL in duplicate tree.
+metadata_or_size_diff,results_lane1.xls,34816,18432,Staged from canonical source tree.
+metadata_or_size_diff,results_lane2.xls,23552,23552,Staged from canonical source tree.
